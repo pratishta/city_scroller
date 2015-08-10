@@ -1,3 +1,4 @@
+//hi this is second comment
 /*hi this is a change i made 
 but i dunno if it'll work, please pull this request*/
 
